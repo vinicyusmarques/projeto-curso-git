@@ -1,0 +1,34 @@
+body {
+    background: #FFC300;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    margin-top: 70px;
+}
+
+
+.img_padrao{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 300px;
+}
+
+.img_logo{
+    width: 30px;
+}
+
+footer{
+    margin-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
